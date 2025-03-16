@@ -26,14 +26,14 @@ The dataset is cleaned, preprocessed, and visualized using Pandas, Matplotlib, a
 Clone the repository and install the required dependencies:
 
     ``` python 
-    git clone https://github.com/your-username/your-repo-name.git
+    git clone https://github.com/KaushiML3/Fine-tuning-a-LLM-for-sentiment-analysis.git
     cd your-repo-name
     pip install -r requirements.txt
     ```
 ## 🛠 Training the Model
-The DistilBERT model is fine-tuned using Hugging Face's Transformers library. Training includes early stopping, learning rate scheduling, and evaluation metrics. Open and run the notebook:
+The DistilBERT model is fine-tuned using Hugging Face's Transformers library. Training includes learning rate scheduling, and evaluation metrics. Open and run the notebook:
 
-1. 📜 Notebook: notebooks/model_training.ipynb
+1. 📜 Notebook: notebook/Fine tune LLM with LoRA for sentiment analysis.ipynb
 
 2.Alternatively, run the training script:
 
