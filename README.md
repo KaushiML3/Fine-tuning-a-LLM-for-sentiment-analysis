@@ -46,8 +46,10 @@ To test the model on new text inputs, run:
     ``` python 
     python app.py 
     ```
-    ![image]()
-    ![image]()
+
+    
+    ![image](https://github.com/KaushiML3/Fine-tuning-a-LLM-for-sentiment-analysis/blob/main/img/Screenshot%20(104).png)
+    ![image](https://github.com/KaushiML3/Fine-tuning-a-LLM-for-sentiment-analysis/blob/main/img/Screenshot%20(105).png)
 
 ## 📄 Acknowledgments
 
