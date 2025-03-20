@@ -14,7 +14,7 @@ The 3 datasets used for fine-tuning is available on Kaggle. You can download it 
 1. IMDB dataset (Sentiment analysis) in CSV format [link](https://www.kaggle.com/datasets/columbine/imdb-dataset-sentiment-analysis-in-csv-format?select=Test.csv)
 2. Sentiment Analysis Dataset [link](https://www.kaggle.com/datasets/abhi8923shriv/sentiment-analysis-dataset?select=train.csv)
 3. Stock News Sentiment Analysis(Massive Dataset) [link](https://www.kaggle.com/datasets/avisheksood/stock-news-sentiment-analysismassive-dataset)
-4.final dataset in Huggingface [link](https://huggingface.co/datasets/KaushiGihan/sentiment_analys_3_combine_ds)
+4. final dataset in Huggingface [link](https://huggingface.co/datasets/KaushiGihan/sentiment_analys_3_combine_ds)
 
 
 ## 📊 Data Preprocessing & Visualization
